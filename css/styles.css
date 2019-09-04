@@ -14,6 +14,7 @@
 
 img{
   border-radius: 50%;
+  height: 200px;
 
 }
 form{
@@ -46,10 +47,15 @@ a{
 
 }
 textarea{
-  background: #eeeeee;
-  border-color: #00adb5;
+  color: #eeeeee;
+  background: #393e46;
+  border-color: #222831;
   border-radius: 1%;
 }
 input{
-  color:#222831;
+  color:#eeeeee;
+  background-color: #393e46;
+  border-color: #222831;
+
+
 }
